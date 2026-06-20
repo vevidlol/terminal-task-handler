@@ -19,6 +19,6 @@ Ensure you have a standard C++ compiler ready (e.g., GCC/g++ or MSVC).
 
 ### Execution Steps
 ```bash
-git clone [https://github.com/vevidlol/terminal-task-handler.git](https://github.com/vevidlol/terminal-task-handler.git)
+git clone https://github.com/vevidlol/terminal-task-handler.git
 g++ -std=c++11 main.cpp -o TaskManager
 ./TaskManager
