@@ -18,14 +18,7 @@ The program utilizes strict Object-Oriented Design principles to detach active e
 Ensure you have a standard C++ compiler ready (e.g., GCC/g++ or MSVC).
 
 ### Execution Steps
-1. Clone the repository down into a working workspace:
 ```bash
-   git clone [https://github.com/vevidlol/terminal-task-handler.git](https://github.com/vevidlol/terminal-task-handler.git)
-Run standard compilation procedures:
-
-Bash
-   g++ -std=c++11 main.cpp -o TaskManager
-Run the resulting binaries:
-
-Bash
-   ./TaskManager
+git clone [https://github.com/vevidlol/terminal-task-handler.git](https://github.com/vevidlol/terminal-task-handler.git)
+g++ -std=c++11 main.cpp -o TaskManager
+./TaskManager
